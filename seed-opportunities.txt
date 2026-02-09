@@ -1,0 +1,9 @@
+# Manual Nostr Engagement Opportunities
+# Add note IDs here (one per line)
+# Boyd can add IDs when he sees interesting posts
+# Maxi will process these autonomously every 30 minutes
+#
+# Format: note1... or event hex ID
+#
+# Example:
+# note1abc123...
